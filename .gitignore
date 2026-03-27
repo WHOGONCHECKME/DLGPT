@@ -1,0 +1,8 @@
+.DS_Store
+DLGPT_backend/.env
+DLGPT_backend/.venv/
+DLGPT_backend/__pycache__/
+DLGPT_backend/OpenAI_API_key.rtf
+DLGPT_backend/.OpenAI_API_key
+*.xcuserstate
+xcuserdata/
